@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Reports folder
+reports/
+
+# Environment files
+.env
+frontend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/out/
